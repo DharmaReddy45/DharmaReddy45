@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DharmaReddy45
 - 👀 I’m interested in ... software engineering,networking
 - 🌱 I’m currently learning ...java,fundamentals of networking
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-I'm currently pursuing a Bachelors degree in computer science and engineering
+-
 
 <!---
 DharmaReddy45/DharmaReddy45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
